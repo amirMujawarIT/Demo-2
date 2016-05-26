@@ -28,7 +28,7 @@ namespace DemoWebAPI_2.Controllers
 
         public AccountController()
         {
-            //this is controller
+            //this controller
         }
 
         public AccountController(ApplicationUserManager userManager,
